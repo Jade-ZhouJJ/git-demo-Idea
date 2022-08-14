@@ -15,5 +15,8 @@ public class GitTest {
         System.out.println("我是hot-fig的修改");
         System.out.println("我是hot-fig的修改");
 
+
+        System.out.println("push------");
+
     }
 }
