@@ -10,5 +10,8 @@ public class GitTest {
 
         System.out.println("我是master修改的");
 
+
+        System.out.println("我是hot-fig的修改");
+
     }
 }
