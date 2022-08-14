@@ -7,5 +7,8 @@ public class GitTest {
         System.out.println("我是hot-fig");
         System.out.println("我是hot-fig，存入本地库");
 
+
+        System.out.println("我是master修改的");
+
     }
 }
